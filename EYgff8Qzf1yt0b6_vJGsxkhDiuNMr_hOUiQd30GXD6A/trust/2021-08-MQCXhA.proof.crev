@@ -1,0 +1,18 @@
+----- BEGIN CREV PROOF -----
+kind: trust
+version: -1
+date: "2021-08-19T00:44:58.996996364-07:00"
+from:
+  id-type: crev
+  id: EYgff8Qzf1yt0b6_vJGsxkhDiuNMr_hOUiQd30GXD6A
+  url: "https://github.com/toidiu/crev-proofs"
+ids:
+  - id-type: crev
+    id: VylyTuk8CMGqIxgHixWaqfiUn3xZyzOA1wFrQ0sR1As
+trust: high
+comment: |-
+  burntsushi
+----- SIGN CREV PROOF -----
+9erGYSqUNR0rJW7GeusNWERGsSpZt2nydufAIBZRdrDRM-Z_tj3Yfy0y9l4WZvhBm0ejrYyom0lPVtM0pLTuAw
+----- END CREV PROOF -----
+
